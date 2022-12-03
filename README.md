@@ -1,8 +1,7 @@
-<h1 align="center">Hi 👋, I'm Osama Amer</h1>
-<h3 align="center">Frontend developer </h3>
+<h1 align="center">Hi 👋, I'm OSAMA AMER</h1>
+<h3 align="center">Front-End Developer </h3>
 
-- 👋 Hi, I’m OSAMA AMER
-- 👀 I’m interested in Front End Web Development
+- 👀 I’m interested in Front End (Web) Development
 - 💬 Ask me about Html, CSS, Bootstrap, Javascript, React, Next and firebase
 - 🌱 I’m currently learning Vuejs, Nuxtjs
 - 💞️ Seeking a challenging position in a reputed organization as a frontend developer where I can learn new skills, expand my knowledge, and grow up together. 
@@ -14,7 +13,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<a href="https://linkedin.com/in/osama-amer-200157199" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="osama-amer-200157199" height="30" width="40" /></a> <a href="" target="blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gmail.max-1100x1100.png)" alt="osama-amer-200157199" height="30" width="40" /></a> 
+<a href="https://linkedin.com/in/osama-amer-200157199" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="osama-amer-200157199" height="30" width="40" /></a> <a href="" target="blank"><img align="center" src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gmail.max-1100x1100.png" alt="osama-amer-200157199" height="30" width="40" /></a> 
 
 </p>
 
