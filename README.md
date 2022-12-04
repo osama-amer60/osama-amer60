@@ -25,5 +25,5 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=osama-amer60&show_icons=true&locale=en&layout=compact" alt="osama-amer60" /></p>
 
-
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=osama-amer60&show_icons=true&locale=en" alt="osama-amer60" /></p>
 
