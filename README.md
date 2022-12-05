@@ -3,7 +3,7 @@
 
 - 👀 I’m interested in Front End (Web) Development
 - 💬 Ask me about Html, CSS, Bootstrap, Javascript, React, Next and firebase
-- 🌱 I’m currently learning Vuejs, Nuxtjs
+- 🌱 I’m currently learning Vuejs, Pinia, Nuxtjs
 - 💞️ Seeking a challenging position in a reputed organization as a frontend developer where I can learn new skills, expand my knowledge, and grow up together. 
 - 📫 How to reach me osamaamerr97@gmail.com
 
