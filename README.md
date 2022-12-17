@@ -25,3 +25,6 @@
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=osama-amer60&show_icons=true&locale=en&layout=compact" alt="osama-amer60" /></p><br><br><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=osama-amer60&show_icons=true&locale=en" alt="osama-amer60" /></p>
+
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=osama-amer60" alt="osamaamer" /></a> </p>
