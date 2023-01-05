@@ -13,7 +13,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<a href="https://drive.google.com/file/d/1t3nlElmSziQemGV7T1qDgjOcEkREciyR/view" target="blank"><img align="center" src="https://www.theladders.com/wp-content/uploads/resume-important-800x450.png" alt="osama-amer-200157199" height="30" width="40" /></a><a href="https://linkedin.com/in/osama-amer-200157199" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="osama-amer-200157199" height="30" width="40" /></a> <a href="osamaamerr97@gmail.com" target="blank"><img align="center" src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gmail.max-1100x1100.png" alt="osama-amer-200157199" height="30" width="40" /></a> 
+<a href="https://drive.google.com/file/d/1t3nlElmSziQemGV7T1qDgjOcEkREciyR/view" target="blank"><img align="center" src="https://www.pngkey.com/png/detail/122-1225289_latex-rsum-and-cover-letter-boilerplates-with-gitlab.png" alt="osama-amer-200157199" height="30" width="40" /></a><a href="https://linkedin.com/in/osama-amer-200157199" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="osama-amer-200157199" height="30" width="40" /></a> <a href="osamaamerr97@gmail.com" target="blank"><img align="center" src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gmail.max-1100x1100.png" alt="osama-amer-200157199" height="30" width="40" /></a> 
 
 </p>
 
