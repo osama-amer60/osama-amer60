@@ -13,7 +13,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<a href="https://linkedin.com/in/osama-amer-200157199" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="osama-amer-200157199" height="30" width="40" /></a> <a href="mailto:osamaamerr97@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/1200px-WhatsApp.svg.png" alt="osama-amer-200157199" height="30" width="40" /></a> 
+<a href="https://linkedin.com/in/osama-amer-200157199" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="osama-amer-200157199" height="30" width="40" /></a> <a href="mailto:osamaamerr97@gmail.com" target="blank"><img align="center" src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_256px.png" alt="osama-amer-200157199" height="30" width="40" /></a> 
 
 </p>
 
